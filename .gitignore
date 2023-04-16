@@ -135,3 +135,6 @@ Vegetable*
 kt_out/*
 *.tmp
 sample_sol.ipynb
+model_path
+example_start.ipynb
+checkpoint
